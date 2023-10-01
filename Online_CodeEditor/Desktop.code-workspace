@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../xampp/htdocs"
+		}
+	],
+	"settings": {
+		"php.suggest.basic": true
+	},
+	"extensions": {
+		"recommendations": [
+			"xdebug.php-debug"
+		]
+	}
+}
